@@ -1,0 +1,34 @@
+body{
+        margin: 0;
+    }
+header{
+    width: 100vw;
+    height: 40vh;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+div{
+    display: flex;
+}
+section{
+    width: 80vw;
+    height: 60vh;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+article{
+    width: 20vw;
+    height: 60vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+

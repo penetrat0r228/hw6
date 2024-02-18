@@ -1,0 +1,33 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    main{
+        flex-direction: column;
+        height: 80vh;
+    }
+    header{
+        height: 20vh;
+    }
+    section {
+        width: 100vw;
+        height: 60vh;
+    }
+    .B{
+        width: 100vw;
+        height: 40vh;
+    }
+    .C{
+        width: 33vw;
+        height: 20vh;
+    }
+    .D{
+        width: 33vw;
+        height: 20vh;
+    }
+    .E{
+        width: 33vw;
+        height: 20vh;
+    }
+    footer{
+        width: 100vw;
+        height: 20vh;
+    }
+}
